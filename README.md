@@ -1,5 +1,5 @@
-# gameboy
-Gameboy Playing Games In Termux
+      # gameboy
+      Gameboy Playing Games In Termux
        _____ _____ ____   _____
       |  ___| ____|  _ \ |__  /
       | |_  |  _| | |_) |  / /
